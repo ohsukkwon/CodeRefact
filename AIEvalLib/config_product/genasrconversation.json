@@ -1,0 +1,9 @@
+{
+  "prompt": "genasrconversation",
+  "description": "",
+  "version": "1.0.0",
+  "homedir": "GEN_ASR_AIvoice_HOME",
+  "resdir": "GEN_ASR_AIvoice_RES",
+  "resultdir": "GEN_ASR_AIvoice_RESULT",
+  "resultprefix": "asr_gen_result_"
+}

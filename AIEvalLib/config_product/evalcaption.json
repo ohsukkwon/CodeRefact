@@ -1,0 +1,9 @@
+{
+  "prompt": "evalcaption",
+  "description": "",
+  "version": "1.0.0",
+  "homedir": "AI_EVAL_IMG_HOME",
+  "resdir": "AI_EVAL_IMG_RES",
+  "resultdir": "AI_EVAL_IMG_RESULT",
+  "resultprefix": "evalcaption_result_"
+}
